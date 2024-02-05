@@ -1,7 +1,5 @@
-Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Nice to see you.
+Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Welcome to my Github.
 =============================================================================================================================
-
-Welcome to my Github!
 ------------------
 
 I have been coding for +5 years and worked as Frontend Developer for different companies and projects.
