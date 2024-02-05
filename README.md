@@ -2,7 +2,7 @@
 
 I have been coding for +5 years and worked as Frontend Developer for different companies and projects.
 
-- 🌍  I'm based in Buenos Aires.
+- 🌍  I'm based in Argentina.
 - 🖥️  See my portfolio at [Portfolio](http://https://bryandev-tech.vercel.app/)
 - ✉️  You can contact me at [codebybryan@gmail.com](mailto:codebybryan@gmail.com)
 - 🚀  I'm currently working on [Blacksmith Agency](http://https://blacksmith.agency/)
