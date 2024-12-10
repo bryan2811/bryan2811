@@ -5,7 +5,7 @@ I have been coding for +5 years and worked as Frontend Developer for different c
 - 🌍  I'm based in Argentina.
 - 🖥️  See my portfolio at [Portfolio](http://https://bryandev-tech.vercel.app/)
 - ✉️  You can contact me at [codebybryan@gmail.com](mailto:codebybryan@gmail.com)
-- 🚀  I'm currently working on [Blacksmith Agency](http://https://blacksmith.agency/)
+- 🚀  I'm currently working on [10Pearls](https://10pearls.com/)
 - 🧠  I'm learning Next JS & TypeScript
 - 🤝  I'm open to collaborating on interesting projects. Reach me!
 
